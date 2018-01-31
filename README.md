@@ -4,7 +4,7 @@ Links to all the project components
 
 # React keyboard
 https://github.com/raw-at/react-keyboard
-#NLTK classifier
+# NLTK classifier
 https://github.com/raw-at/python-nltk-classifier
 # Analytics Panel
 https://github.com/raw-at/react-analysis-panel
